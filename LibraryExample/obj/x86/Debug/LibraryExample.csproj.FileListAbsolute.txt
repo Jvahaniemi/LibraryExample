@@ -12,3 +12,5 @@ C:\tmp\new\libraryexample\LibraryExample\bin\Debug\LibraryExample.pdb
 C:\tmp\new\libraryexample\LibraryExample\bin\Debug\MathLibrary.dll
 C:\tmp\new\libraryexample\LibraryExample\bin\Debug\MathLibrary.pdb
 C:\tmp\new\libraryexample\LibraryExample\obj\x86\Debug\LibraryExample.csprojResolveAssemblyReference.cache
+C:\tmp\har6\libraryexample\LibraryExample\obj\x86\Debug\LibraryExample.exe
+C:\tmp\har6\libraryexample\LibraryExample\obj\x86\Debug\LibraryExample.pdb
