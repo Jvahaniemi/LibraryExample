@@ -3,3 +3,8 @@ Y:\Makela_Petteri\TITE11\Object-oriented programming\LibraryExample\MathLibrary\
 Y:\Makela_Petteri\TITE11\Object-oriented programming\LibraryExample\MathLibrary\obj\Debug\ResolveAssemblyReference.cache
 Y:\Makela_Petteri\TITE11\Object-oriented programming\LibraryExample\MathLibrary\obj\Debug\MathLibrary.dll
 Y:\Makela_Petteri\TITE11\Object-oriented programming\LibraryExample\MathLibrary\obj\Debug\MathLibrary.pdb
+C:\tmp\new\libraryexample\MathLibrary\bin\Debug\MathLibrary.dll
+C:\tmp\new\libraryexample\MathLibrary\bin\Debug\MathLibrary.pdb
+C:\tmp\new\libraryexample\MathLibrary\obj\Debug\MathLibrary.csprojResolveAssemblyReference.cache
+C:\tmp\new\libraryexample\MathLibrary\obj\Debug\MathLibrary.dll
+C:\tmp\new\libraryexample\MathLibrary\obj\Debug\MathLibrary.pdb
