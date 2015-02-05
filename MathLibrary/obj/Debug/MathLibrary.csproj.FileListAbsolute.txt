@@ -8,3 +8,8 @@ C:\tmp\new\libraryexample\MathLibrary\bin\Debug\MathLibrary.pdb
 C:\tmp\new\libraryexample\MathLibrary\obj\Debug\MathLibrary.csprojResolveAssemblyReference.cache
 C:\tmp\new\libraryexample\MathLibrary\obj\Debug\MathLibrary.dll
 C:\tmp\new\libraryexample\MathLibrary\obj\Debug\MathLibrary.pdb
+C:\tmp\har6\libraryexample\MathLibrary\obj\Debug\MathLibrary.csprojResolveAssemblyReference.cache
+C:\tmp\har6\libraryexample\MathLibrary\obj\Debug\MathLibrary.dll
+C:\tmp\har6\libraryexample\MathLibrary\obj\Debug\MathLibrary.pdb
+C:\tmp\har6\libraryexample\MathLibrary\bin\Debug\MathLibrary.dll
+C:\tmp\har6\libraryexample\MathLibrary\bin\Debug\MathLibrary.pdb
