@@ -1,0 +1,7 @@
+Y:\Makela_Petteri\TITE11\Object-oriented programming\LibraryExample\LibraryExample\bin\Debug\LibraryExample.exe
+Y:\Makela_Petteri\TITE11\Object-oriented programming\LibraryExample\LibraryExample\bin\Debug\LibraryExample.pdb
+Y:\Makela_Petteri\TITE11\Object-oriented programming\LibraryExample\LibraryExample\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\Makela_Petteri\TITE11\Object-oriented programming\LibraryExample\LibraryExample\obj\x86\Debug\LibraryExample.exe
+Y:\Makela_Petteri\TITE11\Object-oriented programming\LibraryExample\LibraryExample\obj\x86\Debug\LibraryExample.pdb
+Y:\Makela_Petteri\TITE11\Object-oriented programming\LibraryExample\LibraryExample\bin\Debug\MathLibrary.dll
+Y:\Makela_Petteri\TITE11\Object-oriented programming\LibraryExample\LibraryExample\bin\Debug\MathLibrary.pdb
