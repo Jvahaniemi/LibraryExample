@@ -5,6 +5,7 @@ using System.Text;
 
 namespace MathLibrary
 {
+    // add class
     public class AddClass
     {
         public static long Add(long i, long j)
